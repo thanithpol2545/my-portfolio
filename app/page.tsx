@@ -20,7 +20,7 @@ const skills = [
 ];
 
 const experiences = [
-  ["2025 — Present", "Business Development Associate", "Zeroboard (Thailand) Co., Ltd.", "Supported ESG and carbon-accounting projects, GHG Protocol Scope 1–3, Carbon Footprint for Organization and Product, and data-driven sustainability initiatives."],
+  ["2025", "Business Development Associate", "Zeroboard (Thailand) Co., Ltd.", "Supported ESG and carbon-accounting projects, GHG Protocol Scope 1–3, Carbon Footprint for Organization and Product, and data-driven sustainability initiatives."],
   ["2025", "Digital & Sustainability Officer", "MDT Manufacturing", "Built barcode/data-collection workflows, centralized ISO data, supported CFO/CFP reporting and KPI dashboards."],
   ["2024", "Site Engineer Intern", "Origin Property Public Co.", "Supported construction-site engineering and building-system coordination at The Origin Plug & Play Ramintra."],
   ["2022", "Research Assistant", "Kasetsart University · Faculty of Agriculture", "Worked with IoT sensors and experimental data for indoor smart-farming research."],
