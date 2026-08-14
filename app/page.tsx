@@ -27,7 +27,7 @@ const experiences = [
 
 const awards = [
   ["Top 21", "AI Benchmark 2026 · LLM Trustworthiness Challenge", "11th place · Team E20 · 91 teams / 194 participants"],
-  ["1st Runner Up", "WellSense AIoT Hackathon · Super AI Engineer S6", null, "moonwalk-award.jpg"],
+  ["1st Runner Up", "WellSense AIoT Hackathon · Super AI Engineer S6", "", "moonwalk-award.jpg"],
   ["180 / 10,000+", "Super AI Engineer Season 6 · AIAT", "Selected for the national AI engineering program"],
   ["Associate Engineer", "Council of Engineers Thailand", "Environmental Engineering professional license"],
 ];
